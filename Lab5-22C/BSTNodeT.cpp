@@ -1,6 +1,6 @@
 #pragma once
 
-#include "BSTNode.h"
+#include "BSTNodeT.h"
 
 template<class T>
 BSTNode<T>::BSTNode()
